@@ -5,4 +5,4 @@ A collection of old style addictive games writen in JavaScript, HTML and CSS.
 
 ## Play
 
-Go [play](http://tommalbran.github.io/games/) and have fun :)
+Go [play](http://nityamas.github.io/html5) and have fun :)
